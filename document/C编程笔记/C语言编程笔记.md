@@ -240,6 +240,8 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/include)
 
 [全是干货 | 手把手教你轻松入门C语言及STM32_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1je4y1T7LK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=b6cd6dd41c0769968f58ce886d249f74)
 
+[第12讲 基础篇-C语言基础知识复习1_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1bv4y1R7dp?spm_id_from=333.788.videopod.episodes&vd_source=b6cd6dd41c0769968f58ce886d249f74&p=12)
+
 ## 1. stdint.h简介
 
 stdint.h是从C99中引进的一个标准C库的文件
